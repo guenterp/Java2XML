@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<listpersons>
+    <person>
+        <lastname>Mozart</lastname>
+        <firstname>Wolfgang Amadeus</firstname>
+        <birthday></birthday>
+        <address>
+            <street>Getreidegasse</street>
+            <streetno>9</streetno>
+            <zipcode>5020</zipcode>
+            <town>Salzburg</town>
+            <country>Austria</country>
+        </address>
+    </person>
+    <person>
+        <lastname>van Beethoven</lastname>
+        <firstname>Ludwig</firstname>
+        <birthday></birthday>
+        <address>
+            <street>Bonngasse</street>
+            <streetno>24-26</streetno>
+            <zipcode>53111</zipcode>
+            <town>Bonn</town>
+            <country>Gemany</country>
+        </address>
+    </person>
+</listpersons>
